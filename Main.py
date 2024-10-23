@@ -2,7 +2,16 @@
 #Read in each answer and store it in a variable
 #Print out the result
 
-print("Welcome to Mad Libs!")
-print("Give me a name: ")
-name=input()
-print("One day",name,"wrote a Mad Lib for class!")
+print('Welcome to mad libs')
+print("Give me a verb")
+verb1=input()
+print("give me a persons name ")
+person=input()
+verb2=input("give me another verb:")
+print("")
+print("colour")
+colour=input()
+print(clothing)
+clothing=input()
+print=(brand1)
+brand1=input()
